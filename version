@@ -1,1 +1,1 @@
-{"verzio": "3.3.1", "update": "Testreszabható a Notify (Konfigban beállítható), Fegyver lőszerének módosítása hotfix, Láthatatlanság hotfix"}
+{"verzio": "3.3.2", "update": "Új leállítás elleni védelem (heartbeat) | AntiInvisibility, AntiFreeCam, AntiNoClip konfig változtatás (megadhatóak koordináták ahol ne érzékeljen a GS) | AntiAllCarry halott játékosok desync fix"}
