@@ -1,1 +1,1 @@
-{"verzio": "3.4.2", "update": "Log probléma javítva | AntiPTFX bugfix | AntiTaze frissítés (s_config változott) | AntiMagicBullet (c_config változott)"}
+{"verzio": "3.4.3", "update": "InjectionCheck kitiltás helyett crasheltet | s_config változott, új log funkció"}
