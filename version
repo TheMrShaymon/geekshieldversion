@@ -1,1 +1,1 @@
-{"verzio": "3.4.3", "update": "InjectionCheck kitiltás helyett crasheltet | s_config változott, új log funkció"}
+{"verzio": "3.4.4", "update": "Screenshot log probléma javítva (screenshot-basic rate limitet kapot, dc api zavar be, néhol nem lesz screenshot) | InjectionCheck kikapcsolva, nem nyújt már védelmet | Anti Eulen Freecam Shooting funkció (c_config frissítés szükséges hozzá) | QBCORE framework kompatibilitási probléma javítva"}
