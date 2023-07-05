@@ -1,1 +1,1 @@
-{"verzio": "3.5.0", "update": "Frissített AntiPlayerBlips funkció | AntiAimAssist hozzáadva | AntiAsiLoader hozzáadva | AdvancedBanLogics - Engedélyzhettek feketelistás játékost a szervereteken"}
+{"verzio": "3.5.1", "update": "Új event védelem (Discordon részletes leírás van hozzá) | Adminmenü elírás javítva | Anti Aim Assist false ban javítva | AntiDamageChanger -> AdvancedProtection frissítve, és optimalizálva | AntiUsePickups frissítve | c_config elírás javítva (AntiInfinityAmmo -> AntiInfiniteAmmo) | s_config Heartbeat frissítve"}
